@@ -42,6 +42,10 @@ body {
     font-style: italic;
 }
 
+.content p {
+    margin-top: 20px;
+}
+
 .content .btn {
     margin-top: 8px;
 }
